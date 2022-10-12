@@ -23,7 +23,7 @@
         "vue": "^2.5.17"
     },
     "dependencies": {
-        "jspdf": "^1.5.3",
+        "jspdf": "^2.5.1",
         "jspdf-autotable": "^3.2.4"
     }
 }
